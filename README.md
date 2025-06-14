@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center"> Hi 👋, I'm Abdul Rahman Moin </h1>
+<h3 align="center">Full-Stack Developer 👨‍💻</h3>
 
-<!--
-**Abdulrahmanmoin/Abdulrahmanmoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulrahmanmoin&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="trophies" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+- 📬 Reach me **iam.armoin@gmail.com**
+- 📞 03302089288
+
+<br />
+
+## Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/abdulrahman-moin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+</p>
+
+<br />
+
+## Languages and Tools:
+
+<p align="left">
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+</p>
