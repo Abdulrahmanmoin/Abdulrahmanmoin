@@ -10,7 +10,6 @@
 <br />
 
 - 📬 Reach me **iam.armoin@gmail.com**
-- 📞 03302089288
 
 <br />
 
