@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Abdul Rahman Moin </h1>
-<h3 align="center">Full-Stack Developer 👨‍💻</h3>
+<h3 align="center">Full-Stack Developer | Building AI-Powered Apps</h3>
 
 <br />
 
